@@ -126,7 +126,8 @@
 div[data-line-number]:not([data-line-number="0"]):before {
   content:attr(data-line-number);
   position:absolute;
-  color: #444;
+  color: #c9d1d9;
+  background: #0d1117;
   padding: 1px 3px 3px;
   font-size: x-small;
   display: block;
